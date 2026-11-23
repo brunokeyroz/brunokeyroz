@@ -65,7 +65,7 @@ Desenvolver competências em tecnologia e análise de dados, ampliando minha cap
 ## 📫 Vamos nos conectar?
 
 - **GitHub:** [github.com/brunokeyroz](https://github.com/brunokeyroz)
-- **LinkedIn:** [www.linkedin.com/in/obrunoqueiroz]
+- **LinkedIn:** www.linkedin.com/in/obrunoqueiroz
 
 ---
 
